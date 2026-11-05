@@ -31,6 +31,10 @@ Compatibility may need to be rechecked following future WARDOGS updates.
 
 # 📋 Version History
 v1.0.1 — Initial Release
+
 Initial public release.
+
 Added logging functionality.
+
 Added Windows 11 support.
+
