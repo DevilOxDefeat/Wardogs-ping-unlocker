@@ -1,0 +1,23 @@
+name: ⬆️ Request to pull in new strategies
+description: "If you want new strategies from upstream Flowseal to be integrated."
+title: "[UPSTREAM] "
+labels: ["upstream", "feature request"]
+assignees: []
+
+body:
+ - type: markdown
+ attributes:
+ value: |
+ This issue is intended for requests to integrate new strategies from upstream Flowseal.
+
+ - type: checkboxes
+ id: checklist
+ attributes:
+ label: "Verified before creating the request"
+ options:
+ - label: "I am not asking to fix bugs in the current script with this issue"
+
+ - type: textarea
+ id: reason
+ attributes:
+ label: "Comment"
