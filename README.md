@@ -38,3 +38,4 @@ Added logging functionality.
 
 Added Windows 11 support.
 
+tags: wardogs ping, wardogs ping bypass, ping bypass, wardogs utility, wardogs bypass, steam bypass, steam ping bypass
